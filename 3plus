@@ -105,20 +105,21 @@
             "Banner": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Emergency-City-Hospital-Ambulance-Rescue.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Emergency-City-Hospital-Ambulance-Rescue.jpg"
         },
-         {
-            "GameId": "16",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.zipline.adventure.skyride",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Mega-Zipline-Sky-Adventure.jpg"
-        },
         {
-            "GameId": "17",
+            "GameId": "16",
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.maths.game.basics.learning",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Math-Game-Kids-Education-And-Learning-In-School.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Math-Game-Kids-Education-And-Learning-In-School.jpg"
         },
+        {
+            "GameId": "17",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.flipray.internet.celebrity.lifestyle",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Sister-Happy-Home.jpg"
+        },
+
  {
             "GameId": "18",
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.wasp.nest.sim",
@@ -379,15 +380,8 @@
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/Flying-Horse-Taxi-City-Transport-Horse-Games-2020.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/flipray/master/Backflip-Challenge.jpg"
-        },
-
-{
-            "GameId": "55",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.flipray.internet.celebrity.lifestyle",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Sister-Happy-Home.jpg"
         }
+
     ]
 }
 
