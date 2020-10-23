@@ -47,14 +47,14 @@
             "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.duck.family.simulator",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/Ultimate-Duck-Family-SIM-Fantasy-Land.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Flying-Unicorn-Horse-Family-Jungle-Survival.jpg"
+            "Native": "https://raw.githubusercontent.com/nawaabzada/flipray/master/nativeduck.jpg"
         },
         {
             "GameId": "8",
             "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.army.commando.missions",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/US-Army-Battleground-Shooting-Squad-Action-Game.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Gorilla-Escape-City-Jail-Survival.jpg"
+            "Native": "https://raw.githubusercontent.com/nawaabzada/tingbing/master/usarmyy.jpg"
         },
         {
             "GameId": "9",
@@ -68,21 +68,21 @@
             "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.idle.stickman.flip.ninja.stunts",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/Idle-Stick-Flip-Jump.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Ultimate-Sea-Dinosaur-Monster-World.jpg"
+            "Native": "hhttps://raw.githubusercontent.com/nawaabzada/tingbing/master/stickflip.jpg"
         },
         {
             "GameId": "11",
             "GameLink": "https://play.google.com/store/apps/details?id=com.action.trending.prison.escape.survival.story",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/Blocky-Prison-Plan-Grand-Escape-Survival-Offline.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Last-Island-to-Survive.jpg"
+            "Native": "https://raw.githubusercontent.com/nawaabzada/actiontrends/master/blocky.jpg"
         },
         {
             "GameId": "12",
             "GameLink": "https://play.google.com/store/apps/details?id=com.i7.dogsimulator3d",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Wild-Elephant.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Wild-Elephant-Family-Simulator.jpg"
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/Dog-Simulator-Games-Free-Offline-2020-Sheep-Dog.png",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/doggy.jpg"
         },
         {
         "GameId": "13",
@@ -95,7 +95,7 @@
             "GameId": "14",
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.sister.home.family",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Bull-Family.png",
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/Virtual-Sister-Happy-Home.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Sister-Happy-Home.jpg"
         }
     ]
